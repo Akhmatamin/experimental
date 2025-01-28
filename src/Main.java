@@ -12,5 +12,7 @@ public class Main {
         }
         String updatedFileName = fileName + "." + newExtension;
         System.out.println(updatedFileName);
+
+        // just to check
     }
 }
